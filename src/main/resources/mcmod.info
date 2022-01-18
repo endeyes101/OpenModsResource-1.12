@@ -1,0 +1,16 @@
+[
+{
+  "modid": "cgm",
+  "name": "Open Mod Resource",
+  "description": "Open Mod Resource",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["MrCrayfish"],
+  "credits": "Cheers to these people for donating during the development: Shadow Bill-cat, Mastef Chief, PlayDashGaming, AlphaThink, fabbe50, JacksonPlayz, EnvyingGolem47, Ocelot5836",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,59 @@
+This mapping 'snapshot_20180808' was designed for MC 1.12! Use at your own peril.This mapping 'snapshot_20180808' was designed for MC 1.12! Use at your own peril.
+
+WARNING: You are using an unsupported version of ForgeGradle.
+Please consider upgrading to ForgeGradle 5 and helping in the efforts to get old versions working on the modern toolchain.
+See https://gist.github.com/TheCurle/fe7ad3ede188cbdd15c235cc75d52d4a for more info on contributing.
+#################################################
+         ForgeGradle 2.3.4-gfc67182        
+  https://github.com/MinecraftForge/ForgeGradle  
+#################################################
+                 Powered by MCP                  
+             http://modcoderpack.com             
+     by: Searge, ProfMobius, R4wk, ZeuX          
+     Fesh0r, IngisKahn, bspkrs, LexManos         
+#################################################
+Found AccessTransformer: jei_at.cfg_[GF][P][JF]jei_4.15.0.275_at.cfg
+Found AccessTransformer: wawla_at.cfg_Wawla-1.12.2-2.6.275_at.cfg
+Found AccessTransformer: lostcities_at.cfg
+Version string '1.x' does not match SemVer specification 
+You should try SemVer : http://semver.org/
+:clean
+:deobfCompileDummyTask
+:deobfProvidedDummyTask
+:sourceApiJava
+:compileApiJava UP-TO-DATE
+:processApiResources UP-TO-DATE
+:apiClasses UP-TO-DATE
+:sourceMainJava
+:compileJava注: 某些输入文件使用或覆盖了已过时的 API。
+注: 有关详细信息, 请使用 -Xlint:deprecation 重新编译。
+注: 某些输入文件使用了未经检查或不安全的操作。
+注: 有关详细信息, 请使用 -Xlint:unchecked 重新编译。
+
+:processResources
+:classes
+:jar
+:sourceTestJava
+:compileTestJava UP-TO-DATE
+:processTestResources UP-TO-DATE
+:testClasses UP-TO-DATE
+:test UP-TO-DATE
+:extractMcpData SKIPPED
+:extractMcpMappings SKIPPED
+:getVersionJson
+:extractUserdev UP-TO-DATE
+:genSrgs SKIPPED
+:reobfJar
+:extractAnnotationsJar
+:extractRangemapReplacedMain
+F:\01-我的世界\01-模组插件开发\IdeaProjects\03 实践产品工程\36-惊变100天\1.12.2\OpenModResource-1.12\build\sources\main\java
+:retromapReplacedMain
+remapping source...
+:sourceJar
+:assemble
+:check UP-TO-DATE
+:build
+
+BUILD SUCCESSFUL
+
+Total time: 55.958 secs
